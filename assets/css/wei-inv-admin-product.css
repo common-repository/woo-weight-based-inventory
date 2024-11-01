@@ -1,0 +1,20 @@
+table.wp-list-table mark.yes_weight_inventory {
+    color: #7ad03a;
+    font-weight: 700;
+    background: transparent none;
+    line-height: 1;
+}
+table.wp-list-table mark.no_weight_inventory {
+    font-weight: 700;
+    background: transparent none;
+    line-height: 1;
+    color: #a44;
+}
+table.wp-list-table .column-weight_inventory {
+    text-align: left!important;
+    width: 20ch;
+}
+#sq_wei_inv_product_data label
+{
+    width: 200px;
+}

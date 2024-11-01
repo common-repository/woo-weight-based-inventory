@@ -1,0 +1,36 @@
+.select_box
+{
+    width: 30%;
+}
+.select_box_big
+{
+    width: 50%;
+}
+.input_box
+{
+    width: 30%;
+}
+.input_box_big
+{
+    width: 50%;
+}
+.input_small_box
+{
+    width:10%;
+}
+p.description
+{
+    font-style: normal;
+}
+.metabox-holder
+{
+    width:100%;
+}
+.column-price
+{
+    width: 13% !important;
+}
+.not_set_alert
+{
+    background-color: #f3cbcb !important;
+}
